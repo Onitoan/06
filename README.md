@@ -15,7 +15,7 @@ Desafio 06 - Perfil de midia social
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript e JSON
+
 
 ## 💻 Projeto
 
